@@ -386,6 +386,7 @@ var featuresStores = {
        "coordinates":  [ -99.18855,19.545868 ]
     },
     "properties": {
+    "duplicado":"1",
     "fillcolor":"blue",
     "Cadena":"Scorpion",
     "Identificador":"STL",
@@ -404,11 +405,12 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       //"coordinates":  [ -99.18855,19.545868 ]
-       "coordinates":  [ -99.1884,19.545868 ]
+       "coordinates":  [ -99.18855,19.545868 ]
+       //"coordinates":  [ -99.1884,19.545868 ]
     },
     "properties": {
-    "fillcolor":"#5DADE2",
+    //"fillcolor":"#5DADE2",
+    "fillcolor":"blue",
     "Cadena":"Scorpion",
     "Identificador":"STL",
     "Tienda":"Scorpion Tlalnepantla",
@@ -1353,6 +1355,7 @@ var featuresStores = {
        "coordinates":  [ -99.1891876,19.5446547 ]
     },
     "properties": {
+    "duplicado":"1",
     "fillcolor":"red",
     "Cadena":"Zorro Abarrotero",
     "Identificador":"ZTL",
@@ -1371,11 +1374,12 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       // "coordinates":  [ -99.1891876,19.5446547 ]
-       "coordinates":  [ -99.1890,19.5446547 ]
+        "coordinates":  [ -99.1891876,19.5446547 ]
+       //"coordinates":  [ -99.1890,19.5446547 ]
     },
     "properties": {
-    "fillcolor":"#C0392B",
+    "fillcolor":"red",
+    //"fillcolor":"#C0392B",
     "Cadena":"Zorro Abarrotero",
     "Identificador":"ZTL",
     "Tienda":"Zorro Tlalnepantla",
