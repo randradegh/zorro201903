@@ -68,10 +68,31 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -99.0013,19.6167 ]
+    },
+    "properties": {
+    "fillcolor":"brown",
+    "Cadena":"Punto de Venta",
+    "Identificador":"PVCADE",
+    "Tienda":"Punto de Venta Central de Abastos de Ecatepec",
+    "Trato_amable":54,
+    "Rapidez":85,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":100,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":79,
+    "Seguridad_Industrial":100,
+    "Calificación_Total":76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -99.0034826,19.6159326 ]
     },
     "properties": {
-    "fillcolor":"gray",
+    "fillcolor":"grey",
     "Cadena":"Sahuayo",
     "Identificador":"SahCADE",
     "Tienda":"Sahuayo Central de Abastos de Ecatepec",
@@ -173,6 +194,27 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -99.1117,19.4244 ]
+    },
+    "properties": {
+    "fillcolor":"blue",
+    "Cadena":"Scorpion",
+    "Identificador":"SCADE3",
+    "Tienda":"Scorpion Central de Abastos de Ecatepec 3",
+    "Trato_amable":50,
+    "Rapidez":82,
+    "Atención_en_cajas":73,
+    "Ofertas_y_precios":100,
+    "Surtido_y_existencias":0,
+    "Orden_y_Limpieza":79,
+    "Seguridad_Industrial":100,
+    "Calificación_Total":66
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -99.09431,19.50125 ]
     },
     "properties": {
@@ -188,6 +230,27 @@ var featuresStores = {
     "Orden_y_Limpieza":100,
     "Seguridad_Industrial":100,
     "Calificación_Total":91
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.9209098,19.4209028 ]
+    },
+    "properties": {
+    "fillcolor":"blue",
+    "Cadena":"Scorpion",
+    "Identificador":"SCH",
+    "Tienda":"Scorpion Chicoloapan",
+    "Trato_amable":88,
+    "Rapidez":100,
+    "Atención_en_cajas":73,
+    "Ofertas_y_precios":100,
+    "Surtido_y_existencias":100,
+    "Orden_y_Limpieza":93,
+    "Seguridad_Industrial":70,
+    "Calificación_Total":93
     }
   },
   {
@@ -251,6 +314,27 @@ var featuresStores = {
     "Orden_y_Limpieza":92.86,
     "Seguridad_Industrial":100,
     "Calificación_Total":99
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.9439946,19.32447 ]
+    },
+    "properties": {
+    "fillcolor":"blue",
+    "Cadena":"Scorpion",
+    "Identificador":"SIX",
+    "Tienda":"Scorpion Ixtapaluca",
+    "Trato_amable":88,
+    "Rapidez":100,
+    "Atención_en_cajas":91,
+    "Ofertas_y_precios":63,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":93,
+    "Seguridad_Industrial":82,
+    "Calificación_Total":87
     }
   },
   {
@@ -341,6 +425,27 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -99.0788176,19.6266075 ]
+    },
+    "properties": {
+    "fillcolor":"blue",
+    "Cadena":"Scorpion",
+    "Identificador":"SOC",
+    "Tienda":"Scorpion Coacalco",
+    "Trato_amable":100,
+    "Rapidez":100,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":100,
+    "Surtido_y_existencias":100,
+    "Orden_y_Limpieza":93,
+    "Seguridad_Industrial":100,
+    "Calificación_Total":99
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -98.99254,19.358665 ]
     },
     "properties": {
@@ -406,10 +511,8 @@ var featuresStores = {
     "geometry": {
        "type": "Point",
        "coordinates":  [ -99.18855,19.545868 ]
-       //"coordinates":  [ -99.1884,19.545868 ]
     },
     "properties": {
-    //"fillcolor":"#5DADE2",
     "fillcolor":"blue",
     "Cadena":"Scorpion",
     "Identificador":"STL",
@@ -485,6 +588,48 @@ var featuresStores = {
     "Orden_y_Limpieza":92.86,
     "Seguridad_Industrial":90,
     "Calificación_Total":85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.9101395,19.279915 ]
+    },
+    "properties": {
+    "fillcolor":"blue",
+    "Cadena":"Scorpion",
+    "Identificador":"SV2",
+    "Tienda":"Scorpion Valle de Chalco 2",
+    "Trato_amable":100,
+    "Rapidez":100,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":100,
+    "Surtido_y_existencias":0,
+    "Orden_y_Limpieza":86,
+    "Seguridad_Industrial":100,
+    "Calificación_Total":88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0480083,19.5583876 ]
+    },
+    "properties": {
+    "fillcolor":"blue",
+    "Cadena":"Scorpion",
+    "Identificador":"SVM",
+    "Tienda":"Scorpion Vía Morelos",
+    "Trato_amable":79,
+    "Rapidez":94,
+    "Atención_en_cajas":73,
+    "Ofertas_y_precios":63,
+    "Surtido_y_existencias":100,
+    "Orden_y_Limpieza":93,
+    "Seguridad_Industrial":90,
+    "Calificación_Total":86
     }
   },
   {
@@ -1037,6 +1182,27 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -98.9199993,19.3100726 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZIX",
+    "Tienda":"Zorro Ixtapaluca",
+    "Trato_amable":75,
+    "Rapidez":88,
+    "Atención_en_cajas":64,
+    "Ofertas_y_precios":75,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":100,
+    "Seguridad_Industrial":82,
+    "Calificación_Total":79
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -101.6742047,21.1475728 ]
     },
     "properties": {
@@ -1231,7 +1397,7 @@ var featuresStores = {
     "properties": {
     "fillcolor":"red",
     "Cadena":"Zorro Abarrotero",
-    "Identificador":"ZRL",
+    "Identificador":"ZRO",
     "Tienda":"Zorro Roldán",
     "Trato_amable":45.83,
     "Rapidez":69.7,
@@ -1374,12 +1540,10 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-        "coordinates":  [ -99.1891876,19.5446547 ]
-       //"coordinates":  [ -99.1890,19.5446547 ]
+       "coordinates":  [ -99.1891876,19.5446547 ]
     },
     "properties": {
     "fillcolor":"red",
-    //"fillcolor":"#C0392B",
     "Cadena":"Zorro Abarrotero",
     "Identificador":"ZTL",
     "Tienda":"Zorro Tlalnepantla",
