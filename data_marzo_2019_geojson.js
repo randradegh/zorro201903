@@ -1703,6 +1703,111 @@ var featuresStores = {
     "Seguridad_Industrial":100,
     "Calificación_Total":99
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.9751581,20.3869292 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZJR",
+    "Tienda":"Zorro San Juan del Río",
+    "Trato_amable":58.3333333333333,
+    "Rapidez":100,
+    "Atención_en_cajas":90.9090909090909,
+    "Ofertas_y_precios":0,
+    "Surtido_y_existencias":100,
+    "Orden_y_Limpieza":64.2857142857143,
+    "Seguridad_Industrial":38,
+    "Calificación_Total":76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.411767,20.585788 ]
+    },
+    "properties": {
+    "fillcolor":"blue",
+    "Cadena":"Scorpion",
+    "Identificador":"SQR",
+    "Tienda":"Scorpion Querétaro",
+    "Trato_amable":58.3333333333333,
+    "Rapidez":69.6969696969697,
+    "Atención_en_cajas":72.7272727272727,
+    "Ofertas_y_precios":25,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":64.2857142857143,
+    "Seguridad_Industrial":56,
+    "Calificación_Total":61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.3849101,20.5867702 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZQR",
+    "Tienda":"Zorro Querétaro",
+    "Trato_amable":79.1666666666667,
+    "Rapidez":81.8181818181818,
+    "Atención_en_cajas":81.8181818181818,
+    "Ofertas_y_precios":25,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":78.5714285714286,
+    "Seguridad_Industrial":90,
+    "Calificación_Total":73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1514109,18.8870202 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZJI",
+    "Tienda":"Zorro Jiutepec",
+    "Trato_amable":100,
+    "Rapidez":81.8181818181818,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":62.5,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":57.1428571428571,
+    "Seguridad_Industrial":60,
+    "Calificación_Total":80
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.5430351,18.3357975 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZIG",
+    "Tienda":"Zorro Iguala",
+    "Trato_amable":58.3333333333333,
+    "Rapidez":96.969696969697,
+    "Atención_en_cajas":90.9090909090909,
+    "Ofertas_y_precios":37.5,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":85.7142857142857,
+    "Seguridad_Industrial":100,
+    "Calificación_Total":76
+    }
   }
 ]
 }
