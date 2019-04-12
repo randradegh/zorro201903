@@ -5,6 +5,27 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -99.091193,19.3815016 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"CCA",
+    "Tienda":"Cazador Comercial ",
+    "Trato_amable":79.17,
+    "Rapidez":96.97,
+    "Atención_en_cajas":90.91,
+    "Ofertas_y_precios":37.5,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":71.43,
+    "Seguridad_Industrial":82,
+    "Calificación_Total":79
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -99.2437614,19.4631315 ]
     },
     "properties": {
@@ -20,6 +41,27 @@ var featuresStores = {
     "Orden_y_Limpieza":78.57,
     "Seguridad_Industrial":82,
     "Calificación_Total":89
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0845674,19.2468654 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"FAX",
+    "Tienda":"Flecha Abarrotera",
+    "Trato_amable":87.5,
+    "Rapidez":60.61,
+    "Atención_en_cajas":90.91,
+    "Ofertas_y_precios":62.5,
+    "Surtido_y_existencias":100,
+    "Orden_y_Limpieza":85.71,
+    "Seguridad_Industrial":90,
+    "Calificación_Total":78
     }
   },
   {
@@ -75,12 +117,12 @@ var featuresStores = {
     "Cadena":"Punto de Venta",
     "Identificador":"PVCADE",
     "Tienda":"Punto de Venta Central de Abastos de Ecatepec",
-    "Trato_amable":54,
-    "Rapidez":85,
+    "Trato_amable":54.17,
+    "Rapidez":84.85,
     "Atención_en_cajas":100,
     "Ofertas_y_precios":100,
     "Surtido_y_existencias":50,
-    "Orden_y_Limpieza":79,
+    "Orden_y_Limpieza":78.57,
     "Seguridad_Industrial":100,
     "Calificación_Total":76
     }
@@ -92,7 +134,7 @@ var featuresStores = {
        "coordinates":  [ -99.0034826,19.6159326 ]
     },
     "properties": {
-    "fillcolor":"grey",
+    "fillcolor":"gray",
     "Cadena":"Sahuayo",
     "Identificador":"SahCADE",
     "Tienda":"Sahuayo Central de Abastos de Ecatepec",
@@ -152,6 +194,27 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -99.058078,19.402018 ]
+    },
+    "properties": {
+    "fillcolor":"blue",
+    "Cadena":"Scorpion",
+    "Identificador":"SC7",
+    "Tienda":"Scorpion Calle 7",
+    "Trato_amable":100,
+    "Rapidez":100,
+    "Atención_en_cajas":90.91,
+    "Ofertas_y_precios":62.5,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":85.71,
+    "Seguridad_Industrial":84,
+    "Calificación_Total":89
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -99.0038758,19.6154256 ]
     },
     "properties": {
@@ -202,11 +265,11 @@ var featuresStores = {
     "Identificador":"SCADE3",
     "Tienda":"Scorpion Central de Abastos de Ecatepec 3",
     "Trato_amable":50,
-    "Rapidez":82,
-    "Atención_en_cajas":73,
+    "Rapidez":81.82,
+    "Atención_en_cajas":72.73,
     "Ofertas_y_precios":100,
     "Surtido_y_existencias":0,
-    "Orden_y_Limpieza":79,
+    "Orden_y_Limpieza":78.57,
     "Seguridad_Industrial":100,
     "Calificación_Total":66
     }
@@ -243,12 +306,12 @@ var featuresStores = {
     "Cadena":"Scorpion",
     "Identificador":"SCH",
     "Tienda":"Scorpion Chicoloapan",
-    "Trato_amable":88,
+    "Trato_amable":87.5,
     "Rapidez":100,
-    "Atención_en_cajas":73,
+    "Atención_en_cajas":72.73,
     "Ofertas_y_precios":100,
     "Surtido_y_existencias":100,
-    "Orden_y_Limpieza":93,
+    "Orden_y_Limpieza":92.86,
     "Seguridad_Industrial":70,
     "Calificación_Total":93
     }
@@ -320,27 +383,6 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -98.9439946,19.32447 ]
-    },
-    "properties": {
-    "fillcolor":"blue",
-    "Cadena":"Scorpion",
-    "Identificador":"SIX",
-    "Tienda":"Scorpion Ixtapaluca",
-    "Trato_amable":88,
-    "Rapidez":100,
-    "Atención_en_cajas":91,
-    "Ofertas_y_precios":63,
-    "Surtido_y_existencias":50,
-    "Orden_y_Limpieza":93,
-    "Seguridad_Industrial":82,
-    "Calificación_Total":87
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -99.023381,19.344745 ]
     },
     "properties": {
@@ -356,6 +398,48 @@ var featuresStores = {
     "Orden_y_Limpieza":57.14,
     "Seguridad_Industrial":100,
     "Calificación_Total":83
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0911247,19.3752568 ]
+    },
+    "properties": {
+    "fillcolor":"blue",
+    "Cadena":"Scorpion",
+    "Identificador":"SH96",
+    "Tienda":"Scorpion Central H96",
+    "Trato_amable":62.5,
+    "Rapidez":100,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":62.5,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":78.57,
+    "Seguridad_Industrial":100,
+    "Calificación_Total":80
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.9439946,19.32447 ]
+    },
+    "properties": {
+    "fillcolor":"blue",
+    "Cadena":"Scorpion",
+    "Identificador":"SIX",
+    "Tienda":"Scorpion Ixtapaluca",
+    "Trato_amable":87.5,
+    "Rapidez":100,
+    "Atención_en_cajas":90.91,
+    "Ofertas_y_precios":62.5,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":92.86,
+    "Seguridad_Industrial":82,
+    "Calificación_Total":87
     }
   },
   {
@@ -437,9 +521,30 @@ var featuresStores = {
     "Atención_en_cajas":100,
     "Ofertas_y_precios":100,
     "Surtido_y_existencias":100,
-    "Orden_y_Limpieza":93,
+    "Orden_y_Limpieza":92.86,
     "Seguridad_Industrial":100,
     "Calificación_Total":99
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.411767,20.585788 ]
+    },
+    "properties": {
+    "fillcolor":"blue",
+    "Cadena":"Scorpion",
+    "Identificador":"SQR",
+    "Tienda":"Scorpion Querétaro",
+    "Trato_amable":58.33,
+    "Rapidez":69.7,
+    "Atención_en_cajas":72.73,
+    "Ofertas_y_precios":25,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":64.29,
+    "Seguridad_Industrial":56,
+    "Calificación_Total":61
     }
   },
   {
@@ -482,6 +587,27 @@ var featuresStores = {
     "Orden_y_Limpieza":50,
     "Seguridad_Industrial":38,
     "Calificación_Total":77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.035235,19.6338008 ]
+    },
+    "properties": {
+    "fillcolor":"blue",
+    "Cadena":"Scorpion",
+    "Identificador":"STC",
+    "Tienda":"Scorpion Tecámac",
+    "Trato_amable":100,
+    "Rapidez":100,
+    "Atención_en_cajas":81.82,
+    "Ofertas_y_precios":87.5,
+    "Surtido_y_existencias":100,
+    "Orden_y_Limpieza":100,
+    "Seguridad_Industrial":80,
+    "Calificación_Total":97
     }
   },
   {
@@ -552,6 +678,27 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -98.3703435,20.0906314 ]
+    },
+    "properties": {
+    "fillcolor":"blue",
+    "Cadena":"Scorpion",
+    "Identificador":"STU",
+    "Tienda":"Scorpion Tulancingo",
+    "Trato_amable":100,
+    "Rapidez":100,
+    "Atención_en_cajas":90.91,
+    "Ofertas_y_precios":100,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":78.57,
+    "Seguridad_Industrial":82,
+    "Calificación_Total":91
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -99.0199671,19.2577076 ]
     },
     "properties": {
@@ -567,6 +714,27 @@ var featuresStores = {
     "Orden_y_Limpieza":78.57,
     "Seguridad_Industrial":100,
     "Calificación_Total":76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.9101426,19.2799899 ]
+    },
+    "properties": {
+    "fillcolor":"blue",
+    "Cadena":"Scorpion",
+    "Identificador":"SV2",
+    "Tienda":"Scorpion Valle de Chalco 2",
+    "Trato_amable":100,
+    "Rapidez":100,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":100,
+    "Surtido_y_existencias":0,
+    "Orden_y_Limpieza":85.71,
+    "Seguridad_Industrial":100,
+    "Calificación_Total":88
     }
   },
   {
@@ -594,27 +762,6 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -98.9101395,19.279915 ]
-    },
-    "properties": {
-    "fillcolor":"blue",
-    "Cadena":"Scorpion",
-    "Identificador":"SV2",
-    "Tienda":"Scorpion Valle de Chalco 2",
-    "Trato_amable":100,
-    "Rapidez":100,
-    "Atención_en_cajas":100,
-    "Ofertas_y_precios":100,
-    "Surtido_y_existencias":0,
-    "Orden_y_Limpieza":86,
-    "Seguridad_Industrial":100,
-    "Calificación_Total":88
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -99.0480083,19.5583876 ]
     },
     "properties": {
@@ -622,13 +769,34 @@ var featuresStores = {
     "Cadena":"Scorpion",
     "Identificador":"SVM",
     "Tienda":"Scorpion Vía Morelos",
-    "Trato_amable":79,
-    "Rapidez":94,
-    "Atención_en_cajas":73,
-    "Ofertas_y_precios":63,
+    "Trato_amable":79.17,
+    "Rapidez":93.94,
+    "Atención_en_cajas":72.73,
+    "Ofertas_y_precios":62.5,
     "Surtido_y_existencias":100,
-    "Orden_y_Limpieza":93,
+    "Orden_y_Limpieza":92.86,
     "Seguridad_Industrial":90,
+    "Calificación_Total":86
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.084683,19.247224 ]
+    },
+    "properties": {
+    "fillcolor":"blue",
+    "Cadena":"Scorpion",
+    "Identificador":"SXC",
+    "Tienda":"Scorpion Xochimilco",
+    "Trato_amable":100,
+    "Rapidez":100,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":50,
+    "Surtido_y_existencias":0,
+    "Orden_y_Limpieza":100,
+    "Seguridad_Industrial":62,
     "Calificación_Total":86
     }
   },
@@ -735,6 +903,27 @@ var featuresStores = {
     "Orden_y_Limpieza":64.29,
     "Seguridad_Industrial":100,
     "Calificación_Total":85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7654985,19.132398 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZAM",
+    "Tienda":"Zorro Amecameca",
+    "Trato_amable":100,
+    "Rapidez":100,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":87.5,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":85.71,
+    "Seguridad_Industrial":70,
+    "Calificación_Total":92
     }
   },
   {
@@ -867,6 +1056,27 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -99.0916102,19.3713952 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZCA",
+    "Tienda":"Zorro Central C47",
+    "Trato_amable":62.5,
+    "Rapidez":84.85,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":100,
+    "Surtido_y_existencias":100,
+    "Orden_y_Limpieza":78.57,
+    "Seguridad_Industrial":100,
+    "Calificación_Total":83
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -99.1785515,19.2565027 ]
     },
     "properties": {
@@ -945,6 +1155,48 @@ var featuresStores = {
     "Orden_y_Limpieza":35.71,
     "Seguridad_Industrial":56,
     "Calificación_Total":82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.8814636,19.2811921 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZCL",
+    "Tienda":"Zorro Chalco",
+    "Trato_amable":100,
+    "Rapidez":100,
+    "Atención_en_cajas":81.82,
+    "Ofertas_y_precios":100,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":92.86,
+    "Seguridad_Industrial":90,
+    "Calificación_Total":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.9772298,19.4219722 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZCM",
+    "Tienda":"Zorro Chimalhuacán",
+    "Trato_amable":70.83,
+    "Rapidez":96.97,
+    "Atención_en_cajas":90.91,
+    "Ofertas_y_precios":100,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":100,
+    "Seguridad_Industrial":82,
+    "Calificación_Total":86
     }
   },
   {
@@ -1035,6 +1287,27 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -99.1231499,19.3755185 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZCV",
+    "Tienda":"Zorr Calzada la Viga",
+    "Trato_amable":41.67,
+    "Rapidez":90.91,
+    "Atención_en_cajas":90.91,
+    "Ofertas_y_precios":50,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":100,
+    "Seguridad_Industrial":90,
+    "Calificación_Total":73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -99.0042128,19.6154519 ]
     },
     "properties": {
@@ -1071,6 +1344,27 @@ var featuresStores = {
     "Orden_y_Limpieza":85.71,
     "Seguridad_Industrial":74,
     "Calificación_Total":84
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0911576,19.3669808 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZE9",
+    "Tienda":"Zorro Central E9",
+    "Trato_amable":100,
+    "Rapidez":100,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":62.5,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":85.71,
+    "Seguridad_Industrial":100,
+    "Calificación_Total":90
     }
   },
   {
@@ -1161,6 +1455,111 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -99.0910483,19.3672161 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZH2",
+    "Tienda":"Zorro Central H2",
+    "Trato_amable":54.17,
+    "Rapidez":84.85,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":87.5,
+    "Surtido_y_existencias":100,
+    "Orden_y_Limpieza":78.57,
+    "Seguridad_Industrial":70,
+    "Calificación_Total":80
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2086989,19.8316215 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZHH",
+    "Tienda":"Zorro Huehuetoca",
+    "Trato_amable":58.33,
+    "Rapidez":100,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":100,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":100,
+    "Seguridad_Industrial":90,
+    "Calificación_Total":85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.5430351,18.3357975 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZIG",
+    "Tienda":"Zorro Iguala",
+    "Trato_amable":58.33,
+    "Rapidez":96.97,
+    "Atención_en_cajas":90.91,
+    "Ofertas_y_precios":37.5,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":85.71,
+    "Seguridad_Industrial":100,
+    "Calificación_Total":76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.3426377,20.6779949 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZIR",
+    "Tienda":"Zorro Irapuato",
+    "Trato_amable":29.17,
+    "Rapidez":78.79,
+    "Atención_en_cajas":81.82,
+    "Ofertas_y_precios":0,
+    "Surtido_y_existencias":100,
+    "Orden_y_Limpieza":42.86,
+    "Seguridad_Industrial":56,
+    "Calificación_Total":58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.9199993,19.3100726 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZIX",
+    "Tienda":"Zorro Ixtapaluca",
+    "Trato_amable":75,
+    "Rapidez":87.88,
+    "Atención_en_cajas":63.64,
+    "Ofertas_y_precios":75,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":100,
+    "Seguridad_Industrial":82,
+    "Calificación_Total":79
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -99.232728,19.628 ]
     },
     "properties": {
@@ -1182,21 +1581,42 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -98.9199993,19.3100726 ]
+       "coordinates":  [ -99.1514109,18.8870202 ]
     },
     "properties": {
     "fillcolor":"red",
     "Cadena":"Zorro Abarrotero",
-    "Identificador":"ZIX",
-    "Tienda":"Zorro Ixtapaluca",
-    "Trato_amable":75,
-    "Rapidez":88,
-    "Atención_en_cajas":64,
-    "Ofertas_y_precios":75,
+    "Identificador":"ZJI",
+    "Tienda":"Zorro Jiutepec",
+    "Trato_amable":100,
+    "Rapidez":81.82,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":62.5,
     "Surtido_y_existencias":50,
-    "Orden_y_Limpieza":100,
-    "Seguridad_Industrial":82,
-    "Calificación_Total":79
+    "Orden_y_Limpieza":57.14,
+    "Seguridad_Industrial":60,
+    "Calificación_Total":80
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.9751581,20.3869292 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZJR",
+    "Tienda":"Zorro San Juan del Río",
+    "Trato_amable":58.33,
+    "Rapidez":100,
+    "Atención_en_cajas":90.91,
+    "Ofertas_y_precios":0,
+    "Surtido_y_existencias":100,
+    "Orden_y_Limpieza":64.29,
+    "Seguridad_Industrial":38,
+    "Calificación_Total":76
     }
   },
   {
@@ -1266,6 +1686,27 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -98.9369406,19.4293204 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZM2",
+    "Tienda":"Zorro Peñón",
+    "Trato_amable":100,
+    "Rapidez":100,
+    "Atención_en_cajas":81.82,
+    "Ofertas_y_precios":100,
+    "Surtido_y_existencias":100,
+    "Orden_y_Limpieza":100,
+    "Seguridad_Industrial":82,
+    "Calificación_Total":98
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -99.3266017,19.6247944 ]
     },
     "properties": {
@@ -1308,6 +1749,27 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -99.0019914,19.4096326 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZNZ",
+    "Tienda":"Zorro Nezahualcóyotl",
+    "Trato_amable":87.5,
+    "Rapidez":100,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":100,
+    "Surtido_y_existencias":100,
+    "Orden_y_Limpieza":85.71,
+    "Seguridad_Industrial":56,
+    "Calificación_Total":95
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -99.0759389,19.6573692 ]
     },
     "properties": {
@@ -1323,6 +1785,48 @@ var featuresStores = {
     "Orden_y_Limpieza":100,
     "Seguridad_Industrial":100,
     "Calificación_Total":95
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7935622,19.0482966 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZOZ",
+    "Tienda":"Zorro Ozumba",
+    "Trato_amable":100,
+    "Rapidez":100,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":87.5,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":92.86,
+    "Seguridad_Industrial":88,
+    "Calificación_Total":93
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0578147,19.4061091 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZPA",
+    "Tienda":"Zorro Pantitlán",
+    "Trato_amable":29.17,
+    "Rapidez":84.85,
+    "Atención_en_cajas":81.82,
+    "Ofertas_y_precios":87.5,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":92.86,
+    "Seguridad_Industrial":82,
+    "Calificación_Total":69
     }
   },
   {
@@ -1392,21 +1896,63 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -99.1272414,19.4305276 ]
+       "coordinates":  [ -99.0910446,19.3743929 ]
     },
     "properties": {
     "fillcolor":"red",
     "Cadena":"Zorro Abarrotero",
-    "Identificador":"ZRO",
-    "Tienda":"Zorro Roldán",
-    "Trato_amable":45.83,
-    "Rapidez":69.7,
-    "Atención_en_cajas":90.91,
-    "Ofertas_y_precios":87.5,
+    "Identificador":"ZQ6",
+    "Tienda":"Zorro Central Q6",
+    "Trato_amable":100,
+    "Rapidez":90.91,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":37.5,
+    "Surtido_y_existencias":100,
+    "Orden_y_Limpieza":71.43,
+    "Seguridad_Industrial":90,
+    "Calificación_Total":88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.3849101,20.5867702 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZQR",
+    "Tienda":"Zorro Querétaro",
+    "Trato_amable":79.17,
+    "Rapidez":81.82,
+    "Atención_en_cajas":81.82,
+    "Ofertas_y_precios":25,
     "Surtido_y_existencias":50,
     "Orden_y_Limpieza":78.57,
-    "Seguridad_Industrial":88,
-    "Calificación_Total":67
+    "Seguridad_Industrial":90,
+    "Calificación_Total":73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2500043,19.4407066 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZRH",
+    "Tienda":"Zorro Río Hondo",
+    "Trato_amable":88,
+    "Rapidez":70,
+    "Atención_en_cajas":91,
+    "Ofertas_y_precios":88,
+    "Surtido_y_existencias":100,
+    "Orden_y_Limpieza":64,
+    "Seguridad_Industrial":54,
+    "Calificación_Total":80
     }
   },
   {
@@ -1497,6 +2043,27 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -99.0048228,19.6447269 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZTC",
+    "Tienda":"Zorro Tecámac",
+    "Trato_amable":62.5,
+    "Rapidez":84.85,
+    "Atención_en_cajas":45.45,
+    "Ofertas_y_precios":100,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":78.57,
+    "Seguridad_Industrial":40,
+    "Calificación_Total":72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -98.8706435,19.5095624 ]
     },
     "properties": {
@@ -1561,6 +2128,27 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -99.0045061,19.6468493 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZTM",
+    "Tienda":"Zorro Tecámac 2",
+    "Trato_amable":87.5,
+    "Rapidez":100,
+    "Atención_en_cajas":100,
+    "Ofertas_y_precios":100,
+    "Surtido_y_existencias":50,
+    "Orden_y_Limpieza":100,
+    "Seguridad_Industrial":100,
+    "Calificación_Total":92
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -99.1792707,19.5547167 ]
     },
     "properties": {
@@ -1597,6 +2185,27 @@ var featuresStores = {
     "Orden_y_Limpieza":100,
     "Seguridad_Industrial":84,
     "Calificación_Total":90
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.3699958,20.0889685 ]
+    },
+    "properties": {
+    "fillcolor":"red",
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZTU",
+    "Tienda":"Zorro Tulancingo",
+    "Trato_amable":100,
+    "Rapidez":81.82,
+    "Atención_en_cajas":81.82,
+    "Ofertas_y_precios":87.5,
+    "Surtido_y_existencias":0,
+    "Orden_y_Limpieza":64.29,
+    "Seguridad_Industrial":82,
+    "Calificación_Total":76
     }
   },
   {
@@ -1708,105 +2317,21 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -99.9751581,20.3869292 ]
+       "coordinates":  [ -99.0138392,19.3876483 ]
     },
     "properties": {
     "fillcolor":"red",
     "Cadena":"Zorro Abarrotero",
-    "Identificador":"ZJR",
-    "Tienda":"Zorro San Juan del Río",
-    "Trato_amable":58.3333333333333,
-    "Rapidez":100,
-    "Atención_en_cajas":90.9090909090909,
-    "Ofertas_y_precios":0,
-    "Surtido_y_existencias":100,
-    "Orden_y_Limpieza":64.2857142857143,
-    "Seguridad_Industrial":38,
-    "Calificación_Total":76
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -100.411767,20.585788 ]
-    },
-    "properties": {
-    "fillcolor":"blue",
-    "Cadena":"Scorpion",
-    "Identificador":"SQR",
-    "Tienda":"Scorpion Querétaro",
-    "Trato_amable":58.3333333333333,
-    "Rapidez":69.6969696969697,
-    "Atención_en_cajas":72.7272727272727,
-    "Ofertas_y_precios":25,
+    "Identificador":"ZVV",
+    "Tienda":"Zorro Vicente Villada",
+    "Trato_amable":79.17,
+    "Rapidez":96.97,
+    "Atención_en_cajas":90.91,
+    "Ofertas_y_precios":100,
     "Surtido_y_existencias":50,
-    "Orden_y_Limpieza":64.2857142857143,
-    "Seguridad_Industrial":56,
-    "Calificación_Total":61
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -100.3849101,20.5867702 ]
-    },
-    "properties": {
-    "fillcolor":"red",
-    "Cadena":"Zorro Abarrotero",
-    "Identificador":"ZQR",
-    "Tienda":"Zorro Querétaro",
-    "Trato_amable":79.1666666666667,
-    "Rapidez":81.8181818181818,
-    "Atención_en_cajas":81.8181818181818,
-    "Ofertas_y_precios":25,
-    "Surtido_y_existencias":50,
-    "Orden_y_Limpieza":78.5714285714286,
-    "Seguridad_Industrial":90,
-    "Calificación_Total":73
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -99.1514109,18.8870202 ]
-    },
-    "properties": {
-    "fillcolor":"red",
-    "Cadena":"Zorro Abarrotero",
-    "Identificador":"ZJI",
-    "Tienda":"Zorro Jiutepec",
-    "Trato_amable":100,
-    "Rapidez":81.8181818181818,
-    "Atención_en_cajas":100,
-    "Ofertas_y_precios":62.5,
-    "Surtido_y_existencias":50,
-    "Orden_y_Limpieza":57.1428571428571,
-    "Seguridad_Industrial":60,
-    "Calificación_Total":80
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -99.5430351,18.3357975 ]
-    },
-    "properties": {
-    "fillcolor":"red",
-    "Cadena":"Zorro Abarrotero",
-    "Identificador":"ZIG",
-    "Tienda":"Zorro Iguala",
-    "Trato_amable":58.3333333333333,
-    "Rapidez":96.969696969697,
-    "Atención_en_cajas":90.9090909090909,
-    "Ofertas_y_precios":37.5,
-    "Surtido_y_existencias":50,
-    "Orden_y_Limpieza":85.7142857142857,
-    "Seguridad_Industrial":100,
-    "Calificación_Total":76
+    "Orden_y_Limpieza":92.86,
+    "Seguridad_Industrial":82,
+    "Calificación_Total":87
     }
   }
 ]
